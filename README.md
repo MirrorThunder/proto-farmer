@@ -3,7 +3,7 @@ ___
 ## (Create With Code - All Lesson Plans -> 43/222)
 [Create With Code - All Lesson Plans.pdf](https://connect-prd-cdn.unity.com/20210507/70f39e6e-50b4-4b36-8a21-293bae5a5fa8/Create%20with%20Code%20-%20All%20Lesson%20Plans.pdf) bc guide's crazy
 
-## ¿ACTIVO?: SI
+## ¿ACTIVO?: NO
 
 ## En Proceso:
 
