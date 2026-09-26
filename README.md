@@ -17,7 +17,11 @@ ___
 ## Recomendaciones - Realizado
 - **Procurar que el codigo no sea fuertemente modificado al hacer mejoras**
 - *Unity 6.5 **(6000.5.10f1)***
+- **juan nos cuida**
 
-![img](https://img.ifunny.co/images/327e8c0a922355633d6cc3a89d8a46ec4f7f751c85fa826116a1953f354e00e2_1.jpg)
+## Memes
+![img1](https://www.mypokecard.com/en/Gallery/my/galery/XJGBvxWFpWrL.jpg)
+___
+![img2](https://img.ifunny.co/images/327e8c0a922355633d6cc3a89d8a46ec4f7f751c85fa826116a1953f354e00e2_1.jpg)
 
 > whoosh 🔥🔥🔥
