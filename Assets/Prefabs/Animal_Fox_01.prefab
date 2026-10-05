@@ -382,6 +382,7 @@ GameObject:
   - component: {fileID: 4088196702567243201}
   - component: {fileID: 6540664079098923387}
   - component: {fileID: 6839108827211667787}
+  - component: {fileID: -7092562613079924040}
   m_Layer: 0
   m_Name: Animal_Fox_01
   m_TagString: Untagged
@@ -496,6 +497,19 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.1, y: 0.2, z: 0.3}
   m_Center: {x: 0, y: 0.1, z: 0}
+--- !u!114 &-7092562613079924040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3491649803258712871}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48f011cd3f96a054c8cfef59e49fc79e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AnimalScore
+  points: 15
 --- !u!1 &3521454560606495564
 GameObject:
   m_ObjectHideFlags: 0
